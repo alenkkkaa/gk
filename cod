@@ -5,8 +5,7 @@ int main()
 {
     int x,y;
     scanf (x);
-    y= 5*x+20;
-
+    y= (5*x+20)*2;
     printf(y);
     return 0;
 }
